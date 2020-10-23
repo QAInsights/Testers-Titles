@@ -31,4 +31,4 @@ Curated list of software testers' titles.
 * Test Automation Engineer
 * QA Automation Engineer
 * SDET Automation Engineer
-* 
+*  
